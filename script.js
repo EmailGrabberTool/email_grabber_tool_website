@@ -1,0 +1,1 @@
+console.log('Email Grabber Tool landing page loaded.');
